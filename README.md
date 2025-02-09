@@ -24,4 +24,4 @@ Site Snatcher is a tool that helps users save the HTML of any web page. Users ca
 
 ## Download
 
-You can download the executable file from [here](https://github.com/<USERNAME>/<REPOSITORY>/raw/main/site-snatcher.exe).
+You can download the executable file from [here](https://github.com/Ranveer-Singh-2001/site-snatcher/raw/main/site-snatcher.exe).
